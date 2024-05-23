@@ -1,0 +1,2 @@
+1	corona	coroniaminylo	31-09-2019	29-10-2019	1000.000000	1200.000000	vaccine	passive	artificial	COVID19
+7	Covaxin	covaxino	12-09-83754	12-09-7384	1200.000000	2000.000000	vaccine	passive	artificial	CORONA
